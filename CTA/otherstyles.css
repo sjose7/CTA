@@ -1,0 +1,17 @@
+@charset "utf-8";
+#homeTop {
+	background-image: url(images/road-street-driving-hurry.jpg);
+	background-position: bottom;
+}
+#homeTop .container .row .col-xs-12 {
+	color: white;
+
+}
+#homeTop .container .row {
+	border-radius: 40px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+footer {
+	background-color: rgb(200, 200, 200);
+	padding-top: 15px;
+}
